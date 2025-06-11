@@ -1,4 +1,5 @@
-# Power-BI-Project-1
+# Financial Data Analysis
+
 Data Analysis using Power BI
  Importing and Preprocessing Dataset 
  Effective preprocessing techniques applied to ensure data quality. 
